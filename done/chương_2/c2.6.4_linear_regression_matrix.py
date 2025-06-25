@@ -39,5 +39,5 @@ while True:
     theta = theta - alpha*napla
 
     
-print("Giá trị tối ưu theta0::::", theta)
+print("Giá trị tối ưu theta::::", theta)
 plt.show()
