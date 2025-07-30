@@ -34,7 +34,17 @@ Dưới đây là các chương chính mà chúng ta sẽ cùng nhau tìm hiểu
 | Chương 2.6.2 (Code) | Mô phỏng Gradient Descent & Momentum | [Xem video](https://youtu.be/Q3id37jFCKY) |
 | Chương 2.6.3 (Code) | Cài đặt Gradient Descent cho Linear Regression | [Xem video](https://youtu.be/4LLeU-vK20U) |
 | Chương 2.6.4 (Code) | Cài đặt Gradient Descent dạng vector hóa | [Xem video](https://youtu.be/l-SV-CuTi6c) |
-
+| Chương 2.7 (Code) | Hồi quy đa thức (Polynomial Regression) và cách cài đặt | [Xem video](https://youtu.be/EFQp49IQx00) |
+| Chương 2.8 (Code) | Giải pháp Closed-Form | [Xem video](https://youtu.be/i5_dXkShvC8) |
+| Chương 2.9 (Demo) | Underfitting và Overfitting | [Xem video](https://youtu.be/XwHrUa1qArE) |
+| Chương 2.10 (Code) | Linear Regression, Ridge và Lasso trong thư viện Scikit-learn | [Xem video](https://youtu.be/xlMHDZfPrSA) |
+| Chương 3.1 | Logistic Regression – Hồi quy Logistic | [Xem video](https://youtu.be/p61oJFLoecQ) |
+| Chương 3.2 (Code) | Cài đặt Logistic Regression với Gradient Descent & scikit-learn | [Xem video](https://youtu.be/NJ9Nsan_8gI) |
+| Chương 4.1 | Mô hình Softmax Regression | [Xem video](https://youtu.be/fXxkoNFY-lA) |
+| Chương 4.2 (Code) | Cài Đặt Mô Hình Softmax Regression | [Xem video](https://youtu.be/XEdJwjpkzpU) |
+| Chương 5.1 | Neural Network – Mạng Nơ-ron Cơ Bản | [Xem video](https://youtu.be/o6wg6QSn__g) |
+| Chương 5.2 (Code) | Cài đặt Neural Network với Keras và MNIST | [Xem video](https://youtu.be/lA1pgMgY1eA) |
+| Chương 5.3 | Tổng kết chương 1–5 & Gợi ý lộ trình học tiếp (Roadmap) | [Xem video](https://youtu.be/xzR1CCKWNiQ) |
 ---
 
 ## 🤝 Đóng góp
